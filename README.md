@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Seunghyeon Oh</h1>
-<h3 align="center">A passionate frontend developer from Korea</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Kaku's%20Github&desc=Passionate%20Frontend%20Developer&fontSize=90&fontAlignY=42&descAlign=67&descAlignY=56" />
 
 <h3 align="left">Connect with me : osh4761@hanmail.net</h3>
 <p align="left">
