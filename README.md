@@ -92,6 +92,7 @@
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/puncharrow5/github-stats-transparent/output/generated/languages.svg" alt="Top Languages"/>&nbsp;&nbsp;
