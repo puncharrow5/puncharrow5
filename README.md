@@ -40,7 +40,7 @@
   ![GSAP](https://img.shields.io/badge/gsap-7CF66E.svg?style=for-the-badge&logo=gsap&logoColor=white)
   </div>
 
-  <h3>Devops</h3>
+  <h3>DevOps</h3>
 
   <div>
 
