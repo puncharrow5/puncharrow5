@@ -87,3 +87,10 @@
 <a href="mailto:seunghyeon9696@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/puncharrow5/github-stats-transparent/output/generated/languages.svg" alt="Top Languages"/>&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/puncharrow5/github-stats-transparent/output/generated/overview.svg" alt="Overview"/>
+</div>
