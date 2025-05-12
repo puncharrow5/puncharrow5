@@ -2,7 +2,7 @@
 
 <br/>
 
-<h1 align="center">:mortar_board: TECH STACK :mortar_board:</h1>
+<h2 align="center">:wrench: TECH STACK :wrench:</h2>
 
 <br/>
 
@@ -17,11 +17,17 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>   
 </div>
 
-<h3 align="center">CONTACT</h3>
+<br/>
+<br/>
+
+<h2 align="center">:airplane: CONTACT :airplane:</h2>
 
 <br/>
 
-<a href="mailto:seunghyeon9696@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://github.com/puncharrow5" target="_blank">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
+<div align="center">
+  
+<a href="https://kaku-portfolio.info/">![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)</a>&nbsp;&nbsp;
+<a href="mailto:seunghyeon9696@gmail.com">![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>&nbsp;&nbsp;
 <a href="https://geode-divan-811.notion.site/a44da1efdf5b47ea8fe12a8f85b216ad" target="_blank">![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)</a>
-<a href="https://www.linkedin.com/in/oh-seunghyeon-352708307" target="_blank">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
+</div>
