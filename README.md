@@ -1,8 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Kaku's%20Github&desc=Passionate%20Frontend%20Developer&fontSize=90&fontAlignY=42&descAlign=67&descAlignY=56" />
 
-<br/>
-
-<h2 align="center">:wrench: TECH STACK :wrench:</h2>
+<h1 align="center">:wrench: TECH STACK :wrench:</h1>
 
 <div align="center"> 
   <h3>Language</h3>
@@ -79,7 +77,7 @@
 <br/>
 <br/>
 
-<h2 align="center">:airplane: CONTACT :airplane:</h2>
+<h1 align="center">:airplane: CONTACT :airplane:</h1>
 
 <br/>
 
