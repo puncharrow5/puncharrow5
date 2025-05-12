@@ -1,4 +1,7 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Kaku's%20Github&desc=Passionate%20Frontend%20Developer&fontSize=90&fontAlignY=42&descAlign=67&descAlignY=56" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=300&section=header&text=Kaku's%20Github&desc=Passionate%20Frontend%20Developer&fontSize=90&fontAlignY=42&descAlign=67&descAlignY=56" />
+</div>
+  
 
 <h1 align="center">:wrench: TECH STACK :wrench:</h1>
 
